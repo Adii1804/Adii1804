@@ -1,13 +1,19 @@
-<h3 align="center">SoftwareDeveloper</h3>
+<h3 align="center">Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshsati18" alt="devanshsati" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adii1804" alt="GitHub Trophies" />
+  </a>
+</p>
 
-- 📫 or drop an email @ **adityatsingh28@gmail.com**
+- 📫 Drop an email at **adityatsingh28@gmail.com**  
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1LHLFVmhrAcDYZqu2jeI_4YkvWhcJHbro/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adityatsingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AdityaPratapSIngh" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/adityatsingh/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AdityaPratapSIngh" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,6 +62,6 @@
   </a>
 </p>
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adii1804&show_icons=true&locale=en" alt="adityapratapsingh" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adii1804&show_icons=true&locale=en" alt="Aditya Pratap Singh's GitHub Stats" />
+</p>
