@@ -7,7 +7,7 @@
 </p>
 
 - 📫 Drop an email at **adityatsingh28@gmail.com**  
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1LHLFVmhrAcDYZqu2jeI_4YkvWhcJHbro/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1T8zXyHuAaEPgbT3gRqtZ_j4RJ8qZKdwf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
